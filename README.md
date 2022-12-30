@@ -1,5 +1,5 @@
 ### Hi there 👋
-###作者qwessfdfc,qq2967942079
+作者qwessfdfc，初学者
 <!--
 **QWESSFDFC/qwessfdfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
