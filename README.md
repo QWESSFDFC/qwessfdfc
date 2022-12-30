@@ -1,5 +1,8 @@
 ### Hi there 👋
-作者qwessfdfc，初学者
+作者qwessfdfc，是初学者，十三岁，是学生，当然是现在，2022年12月30日，上初一，是个初生。滑稽:)随便怎么改我在GitHub上发的东西都行，无所谓。
+英语机翻。
+Author qwessfdfc,is beginner.
+I translated English with translation software.Use translation software to translate the rest.
 <!--
 **QWESSFDFC/qwessfdfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
