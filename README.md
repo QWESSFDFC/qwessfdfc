@@ -1,7 +1,6 @@
-### Hi there 👋
-本人所有的网站仅供娱乐!!!素材来自互联网，侵删。
+### Hi你好
+本人所有的网站仅供娱乐!!!素材来自互联网，侵删。本人所有的网站仅供娱乐!!!素材来自互联网，侵删。本人所有的网站仅供娱乐!!!素材来自互联网，侵删。重要的事情说三遍.
 作者qwessfdfc，是初学者，十三岁，是学生，当然是现在，2022年12月30日，上初一，是个初生。滑稽:)随便怎么改我在GitHub上发的东西都行，无所谓。
-有bug的话，你可以加我qq2967942079,我随缘改bug,但是我觉得一个网页能有什么bug。（修bug要看我闲不闲,以及懒不懒得改,或者你自己写一个网页，那样也不能，网上有相关教程，十分详细）
 
 <!--
 **QWESSFDFC/qwessfdfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>hhh</h1>
